@@ -21,6 +21,7 @@ target/
 doc/
 out/
 build/
+uu_codesandboxtemplate_maing01-server/
 metamodel.zip
 npm-debug.log
 pnpm-debug.log
